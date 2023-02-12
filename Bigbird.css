@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  color: purple;
+}
+img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
